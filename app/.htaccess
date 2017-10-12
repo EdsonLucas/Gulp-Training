@@ -1,0 +1,5 @@
+Options -Indexes
+
+ErrorDocument 404 "<script> location.href='/error'; </script>"
+ErrorDocument 403 "<script> location.href='/error'; </script>"
+
